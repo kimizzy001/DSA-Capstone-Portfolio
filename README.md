@@ -1,4 +1,4 @@
-# DSA Capstone Portfolio – Obinyan Israel Anuoluwapo
+# DSA Data Analysis Capstone Project Portfolio – Obinyan Israel Anuoluwapo
 
 This portfolio showcases two real-world data analysis projects completed as part of the DSA capstone. It includes insights generation, visualization, and SQL-driven business recommendations.
 
